@@ -24,7 +24,6 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>12th pass XD</li>
-        <li></li>
       </ul>
     ),
   },
@@ -34,7 +33,6 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Nothing :) </li>
-        <li>r</li>
       </ul>
     ),
   },
