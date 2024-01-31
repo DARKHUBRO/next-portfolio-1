@@ -32,11 +32,11 @@ const HeroSection = () => {
             <br></br>
             <TypeAnimation
               sequence={[
-                "Mr Dark",
+                "Mr Dark       ",
                 1000,
-                "Carder",
+                "Carder        ",
                 1000,
-                "Hacker",
+                "Hacker        ",
                 1000,
                 "UI/UX Designer",
                 1000,
