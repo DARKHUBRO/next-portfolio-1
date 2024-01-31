@@ -1,8 +1,6 @@
 "use client";
 import React, { useState, useRef } from "react";
 import { useForm, ValidationError } from "@formspree/react";
-import GithubIcon from "../../../public/github-icon.svg";
-import LinkedinIcon from "../../../public/linkedin-icon.svg";
 import Link from "next/link";
 import Image from "next/image";
 import Swal from "sweetalert2";
@@ -32,14 +30,6 @@ const EmailSection = () => {
           open. Whether you have a question or just want to say hi, I&apos;ll
           try my best to get back to you!
         </p>
-        <div className="socials flex flex-row gap-2">
-          <Link href="github.com">
-            <Image src={GithubIcon} alt="Github Icon" />
-          </Link>
-          <Link href="linkedin.com">
-            <Image src={LinkedinIcon} alt="Linkedin Icon" />
-          </Link>
-        </div>
       </div>
       <div>
         <form className="flex flex-col" onSubmit={handleSubmit}>
@@ -57,7 +47,7 @@ const EmailSection = () => {
               rows={1}
               required
               className="bg-[#18191E] border border-[#33353F] placeholder-[#9CA2A9] text-gray-100 text-sm rounded-lg block w-full p-2.5"
-              placeholder="Pawan Rai"
+              placeholder="Mr Dark"
             />
           </div>
           <div className="mb-6">
