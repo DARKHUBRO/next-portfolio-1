@@ -34,9 +34,9 @@ const HeroSection = () => {
               sequence={[
                 "Mr Dark",
                 1000,
-                "Web Developer",
+                "Carder",
                 1000,
-                "Mobile Developer",
+                "Hacker",
                 1000,
                 "UI/UX Designer",
                 1000,
@@ -47,7 +47,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I am Professional Carder,
+            You Can contect me on Telegram,
           </p>
           <div>
             <Link href="#contact">
