@@ -21,8 +21,9 @@ const achievementsList = [
     value: "100,000",
   },
   {
-    metric: "Awards",
-    value: "7",
+    metric: "Gateways Carded",
+    value: "10",
+    postfix: "+",
   },
   {
     metric: "Years",
