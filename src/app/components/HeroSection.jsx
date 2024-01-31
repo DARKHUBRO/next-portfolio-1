@@ -53,7 +53,7 @@ const HeroSection = () => {
             <Link href="#contact">
               <button className="px-1 py-1  mr-4 w-full sm:w-fit bg-gradient-to-br from-pink-500 via-purple-500 to-blue-500 hover:bg-slate-800 text-white mt-3 rounded-full">
                 <span className="block bg-slate-800 hover:bg-black rounded-full px-5 py-2">
-                  Hire Me
+                  Telegram
                 </span>
               </button>
             </Link>
@@ -65,7 +65,7 @@ const HeroSection = () => {
               className="px-1 py-1 w-full sm:w-fit bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-800 text-white mt-3 rounded-full"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
-                Download CV
+                Instagram
               </span>
             </button>
           </div>
