@@ -23,7 +23,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>12th pass XD</li>
+        <li>12th Grade XD</li>
       </ul>
     ),
   },
