@@ -9,12 +9,12 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2">
-        <li>Node.js</li>
-        <li>Express</li>
-        <li>PostgreSQL</li>
-        <li>Sequelize</li>
-        <li>JavaScript</li>
-        <li>React</li>
+        <li>Carding</li>
+        <li>Hacking</li>
+        <li>Modding</li>
+        <li>Coding</li>
+        <li>Web Scrapping</li>
+        <li>Spamming</li>
       </ul>
     ),
   },
@@ -23,8 +23,8 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Fullstack Academy of Code</li>
-        <li>University of California, Santa Cruz</li>
+        <li>12th pass XD</li>
+        <li></li>
       </ul>
     ),
   },
@@ -33,8 +33,8 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>AWS Cloud Practitioner</li>
-        <li>Google Professional Cloud Developer</li>
+        <li>Nothing :) </li>
+        <li>r</li>
       </ul>
     ),
   },
@@ -59,12 +59,7 @@ const AboutSection = () => {
         <Image src="/images/about-image.png" width={500} height={500} />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <p className="text-base lg:text-lg">
-            I am a full stack web developer with a passion for creating
-            interactive and responsive web applications. I have experience
-            working with JavaScript, React, Redux, Node.js, Express, PostgreSQL,
-            Sequelize, HTML, CSS, and Git. I am a quick learner and I am always
-            looking to expand my knowledge and skill set. I am a team player and
-            I am excited to work with others to create amazing applications.
+            I am a Professional carder, expirensed in carding payment gateways like : Stripe, Adyen, Airwallex, Paypal, Xendit, Paddle, Chargebee, Square, Checkout.com etc...
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
