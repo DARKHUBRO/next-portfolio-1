@@ -48,7 +48,7 @@ const HeroSection = () => {
                 </span>
               </button>
             </Link>
-            <Link href="https://intagram.com/mr.dark352">
+            <Link href="https://instagram.com/mr.dark352">
             <button
               
               className="px-1 py-1 w-full sm:w-fit bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-800 text-white mt-3 rounded-full"
